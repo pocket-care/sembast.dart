@@ -80,4 +80,4 @@ You can get a record by key
 expect(await store.record(lampKey).get(db), {'name': 'Lamp', 'price': 10});
 ```
 
-More information on advances queries [here](queries.md).
+More information on advanced queries [here](queries.md).
